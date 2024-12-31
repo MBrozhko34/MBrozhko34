@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m working as a Software Developer at Aventus<br>🌱 Polkadot Ecosystem, Substrate Parachain development 🦀<br>⚡ Passionate about web3/blockchain <br>🔥 Other interests: Travelling, Calisthenics, Volleyball, Hiking, Reading<br>📫 Always happy to connect <br><br>
+🔭 I’m currently a MSc Computer Science Student at the University of Warwick, UK<br>🌱 Formerly working as a SWE in the Polkadot Ecosystem, on Parachain development 🦀<br>⚡ Passionate about web3/blockchain <br>🔥 Other interests: Travelling, Calisthenics, Volleyball, Hiking, Reading<br>📫 Always happy to connect <br><br>
 
 
 ## 🌐 Socials:
