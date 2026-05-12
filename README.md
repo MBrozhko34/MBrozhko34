@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently a MSc Computer Science Student at the University of Warwick, UK<br>🌱 Formerly working as a SWE in the Polkadot Ecosystem, on Parachain development 🦀<br>⚡ Passionate about web3/blockchain <br>🔥 Other interests: Travelling, Calisthenics, Volleyball, Hiking, Reading<br>📫 Always happy to connect <br><br>
+- Current Junior Full-Stack Software Develoepr at Galactic Markets
+- Formerly working as a SWE in the Polkadot Ecosystem, on Parachain development
+- University of Warwick MSc Computer Science Student Grad, UK
+- Other interests: Travelling, Calisthenics, Volleyball, Hiking, Reading
+- Always happy to connect
 
 
 ## 🌐 Socials:
