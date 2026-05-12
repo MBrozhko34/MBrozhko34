@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Current Junior Full-Stack Software Develoepr at Galactic Markets
+- Current Junior SWE at Galactic Markets
 - Formerly working as a SWE in the Polkadot Ecosystem, on Parachain development
 - University of Warwick MSc Computer Science Student Grad, UK
 - Other interests: Travelling, Calisthenics, Volleyball, Hiking, Reading
